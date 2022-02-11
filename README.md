@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Bruce%20Han&fontSize=90&fontColor=auto)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=300&section=header&text=Jeet%20Kune%20Coding&fontSize=90&fontColor=auto)
 </br>
 <h3 align="center"><b>💻 Tech Stack 🛠</b></h3>
 <p align="center">
