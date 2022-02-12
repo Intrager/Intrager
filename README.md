@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Jeet%20Kune%20Coding&fontSize=90&fontColor=auto)
-</br>
+
 <h1 align="center"><b>💻 Technology Stack 🛠</b></h1>
 <hr>
 <h2 align="center"><b>Language & Framework</b></h2>
@@ -27,13 +27,29 @@
   </div>
 </p>
 <hr>
-
-<h3 align="center"><b>Tools</b></h3>
+<h2 align="center"><b>Datebase</b></h2>
 <p align="center">
-  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a> &nbsp
 </p>
-<h4 align="center"><b>Collaboration Tools</b></h4>
+<hr>
+<h2 align="center"><b>ETC</b></h2>
+<h3 align="center"><b>Linux(Server)</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/></a> &nbsp
+</p>
+<h3 align="center"><b>CI / CD & Cloud</b></h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis%20CI&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></a> &nbsp
+</p>
+<h3 align="center"><b>Collaboration Tools</b></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/></a> &nbsp
 </p>
