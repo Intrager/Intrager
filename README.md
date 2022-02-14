@@ -68,8 +68,8 @@
 </p> -->
 
 
-![Bruce Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&theme=radical)
+![Bruce Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&theme=radical&include_all_commits=false)
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrager&layout=compact&hide=PHP,HTML,CSS)](https://github.com/intrager/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrager&hide=PHP,HTML,CSS)](https://github.com/intrager/github-readme-stats)
