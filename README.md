@@ -3,7 +3,7 @@
 
 <h1 align="center"><b>💻 Technology Stack 🛠</b></h1>
 <!-- <hr> -->
-<h2 align="center"><b>Language / Framework / Library / Engine</b></h2>
+<h2 align="center"><b>Major Stack</b></h2>
 
 <p>
   <div align="center">
@@ -15,8 +15,8 @@
       <img src="https://img.shields.io/badge/Spring%20Boot%202-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Spring%20Security%205-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp    
+<!--       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp -->
+<!--       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp     -->
     </div>
   </div>
   <div align="center">
@@ -25,9 +25,9 @@
 <!--      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/C&#43;&#43;-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a> &nbsp  -->
+      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp -->
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> &nbsp
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
