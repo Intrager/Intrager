@@ -72,4 +72,4 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrager&hide=PHP,HTML,CSS)](https://github.com/intrager/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrager&hide=PHP,HTML,CSS,EJS,SCSS,PUG&layout=compact)](https://github.com/intrager/github-readme-stats)
