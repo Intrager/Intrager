@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Spring%20Security%205-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a> &nbsp
 <!--       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp -->
-<!--       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp     -->
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
     </div>
   </div>
   <div align="center">
