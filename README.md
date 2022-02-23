@@ -1,22 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Jeet%20Kune%20Coding&fontSize=90&fontColor=auto)
 
 
-<h1 align="center"><b>💻 Technology Stack 🛠</b></h1>
+<h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
 <!-- <hr> -->
-<h2 align="center"><b>Major Stack</b></h2>
 
 <p>
   <div align="center">
 <!--   <h3><b>Major Stack</b></h3> -->
     <div>
-      <img src="https://img.shields.io/badge/Java%208-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Java%2011-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Spring%205-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Spring%20Boot%202-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Spring%20Security%205-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/Java%208-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/Java%2011-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/Spring%205-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/Spring%20Boot%202-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/Spring%20Security%205-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a> &nbsp
-<!--       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp -->
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
     </div>
   </div>
   <div align="center">
@@ -33,17 +30,30 @@
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a> &nbsp
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/></a> &nbsp
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/></a> &nbsp
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a> &nbsp
     </div>
   </div>
 </p>
 
-<h2 align="center"><b>Database</b></h2>
+<h2 align="center"><b>I've used</b></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a> &nbsp
+</p>
+
+<h2 align="center"><b>How to contact</b></h2>
+<p align="center">
+  
+  <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.facebook.com/hanjeongsoo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a>
 </p>
 <hr>
 <!-- <h2 align="center"><b>ETC</b></h2>
