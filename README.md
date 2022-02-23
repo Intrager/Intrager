@@ -6,7 +6,6 @@
 
 <p>
   <div align="center">
-<!--   <h3><b>Major Stack</b></h3> -->
     <div>
       <img src="https://img.shields.io/badge/Java%208-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Java%2011-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
@@ -17,14 +16,7 @@
     </div>
   </div>
   <div align="center">
-<!--     <h4><b>Minor Stack</b></h4> -->
     <div>
-<!--      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/C&#43;&#43;-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp -->
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> &nbsp
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
@@ -45,15 +37,18 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis%20CI&logoColor=black"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></a> &nbsp
 </p>
 
 <h2 align="center"><b>How to contact</b></h2>
 <p align="center">
-  
+  <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.facebook.com/hanjeongsoo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-  <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a>
+<!--   <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a> -->
+  <a href="https://www.instagram.com/bruce_h_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 <hr>
 <!-- <h2 align="center"><b>ETC</b></h2>
