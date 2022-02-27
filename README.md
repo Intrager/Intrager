@@ -28,7 +28,7 @@
   </div>
 </p>
 
-<h2 align="center"><b>I've used</b></h2>
+<h2 align="center"><b>👨‍💻I've used</b></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=black"/></a> &nbsp
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></a> &nbsp
 </p>
 
-<h2 align="center"><b>How to contact</b></h2>
+<h2 align="center"><b>How to contact🙋‍♂️</b></h2>
 <p align="center">
   <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
