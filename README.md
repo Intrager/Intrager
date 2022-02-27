@@ -1,13 +1,10 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=150&section=header&text=Jeet%20Kune%20Coding&fontSize=90&fontColor=auto) -->
-![익선동한정수](https://user-images.githubusercontent.com/77195486/155887813-fb433f6b-e93c-45d6-b8dd-87baa333a019.jpg)
 <hr>
-<h4>Hello!🙋‍♂️ I'm Bruce Han. I'm Korean and practicing Jeet Kune Do.🥋🥊</h4>
+<h4>Hello!🙋‍♂️ I'm Bruce Han. I'm Korean and practicing Jeet Kune Do🥋🥊.</h4>
   <p>
     <h4>I am constantly studying <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> to solve the problems I am facing where I live.</h4>
   </p>
 <hr>
 <h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
-<!-- <hr> -->
 
 <p>
   <div align="center">
