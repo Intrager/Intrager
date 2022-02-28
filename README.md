@@ -43,6 +43,7 @@
 
 <h2 align="center"><b>How to contact🙋‍♂️</b></h2>
 <p align="center">
+  <a href="mailto:intrager@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.facebook.com/hanjeongsoo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
