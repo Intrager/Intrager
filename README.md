@@ -1,7 +1,8 @@
 <hr>
-<h4>Hello!🙋‍♂️ I'm Bruce Han. I'm Korean and practicing Jeet Kune Do🥋🥊.</h4>
+<h3>Hello!🙋‍♂️ I'm Bruce Han. I'm Korean and practicing Jeet Kune Do🥋🥊.</h3>
   <p>
-    <h4>I am constantly studying <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> to solve the problems I am facing where I live.</h4>
+    <h3>I am constantly studying <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> to solve the problems I am facing where I live.
+    </h3>
   </p>
 <hr>
 <h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
