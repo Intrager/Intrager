@@ -26,7 +26,7 @@
   </div>
 </p>
 
-<h2 align="center"><b>👨‍💻I've used</b></h2>
+<h2 align="center"><b>I have experience with these tools🔧</b></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/></a> &nbsp
