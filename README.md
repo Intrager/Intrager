@@ -5,7 +5,7 @@
     </h3>
   </p>
 <hr>
-<h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
+<!-- <h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
 
 <p>
   <div align="center">
@@ -38,19 +38,8 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis%20CI&logoColor=black"/></a> &nbsp
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></a> &nbsp
-</p>
+</p> -->
 
-<h2 align="center"><b>How to contact 🙋‍♂️me</b></h2>
-<p align="center">
-  <a href="mailto:intrager@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-  <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.facebook.com/hanjeongsoo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<!--   <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a> -->
-  <a href="https://www.instagram.com/bruce_h_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</p>
-<hr>
 <!-- <h2 align="center"><b>ETC</b></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> &nbsp
@@ -78,3 +67,15 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrager&hide=PHP,HTML,CSS,EJS,SCSS,PUG&layout=compact)](https://github.com/intrager/github-readme-stats)
+
+<hr>
+<h2 align="center"><b>How to contact 🙋‍♂️me</b></h2>
+<p align="center">
+  <a href="mailto:intrager@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.facebook.com/hanjeongsoo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<!--   <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a> -->
+  <a href="https://www.instagram.com/bruce_h_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
