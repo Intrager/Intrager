@@ -4,7 +4,7 @@
     <h3>I am constantly studying <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> to solve the business problems I am facing where I live.
     </h3>
   </p>
-<hr>
+<hr><hr>
 <!-- <h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
 
 <p>
