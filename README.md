@@ -139,6 +139,7 @@
   <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.facebook.com/hanjeongsoo"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%ED%95%9C-7b8802230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <!--   <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a> -->
   <a href="https://www.instagram.com/bruce_h_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
