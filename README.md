@@ -5,7 +5,7 @@
 ### Hello! I'm Bruce Han. I'm practicing Jeet Kune Do:martial_arts_uniform::boxing_glove:.
 ### I am steadly learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
 ### I am not only learning according to the words of Master Bruce Lee, but I am trying to apply them .
-### I love to grow together:people_holding_hands:. 
+### I love to grow up together:people_holding_hands:. 
 <hr>
 
 <div align='center'>
