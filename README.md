@@ -5,41 +5,49 @@
     </h3>
   </p>
 <hr>
-<!-- <h2 align="center"><b>💻 Technology Stack 🛠</b></h2>
 
-<p>
-  <div align="center">
-    <div>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/></a> &nbsp
-    </div>
-  </div>
-  <div align="center">
-    <div>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
-    </div>
-  </div>
-</p>
+<h3>
+  <details>
+    <summary>:trackball: Major Technology Stack :hammer_and_wrench:</summary>
+    <p>
+      <p align='center'>
+        <div>
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"/></a> &nbsp
+        </div>
+      </p>
+    </p>  
+  </details>
+</h3>      
+      <p align="center">
+        <div>
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
+        </div>
+      </p>
+    </p>
 
-<h2 align="center"><b>I have experience with these tools🔧</b></h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis%20CI&logoColor=black"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></a> &nbsp
-</p> -->
+  <h2 align="center"><b>I have experience with these tools🔧</b></h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=flat-square&logo=Travis%20CI&logoColor=black"/></a> &nbsp
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></a> &nbsp
+  </p>
 
+</details>
+</h2>
+<br>
 <!-- <h2 align="center"><b>ETC</b></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> &nbsp
@@ -65,8 +73,6 @@
 ![Bruce Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&theme=radical&include_all_commits=false)
 
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrager&hide=PHP,HTML,CSS,EJS,SCSS,PUG&layout=compact)](https://github.com/intrager/github-readme-stats)
 
 <hr>
 <h2 align="center"><b>How to contact 🙋‍♂️me</b></h2>
