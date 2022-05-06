@@ -57,8 +57,8 @@
       <p>
         <div>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> &nbsp
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/> &nbsp
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/> &nbsp
         </div>
       </p>
       <p>
@@ -81,8 +81,7 @@
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/
-                    -F05032?style=flat-square&logo=Git&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
           <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=black"/> &nbsp
