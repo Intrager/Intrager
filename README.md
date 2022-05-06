@@ -1,9 +1,11 @@
-<hr>
-<h3>Hello!🙋‍♂️ I'm Bruce Han. I'm Korean and practicing Jeet Kune Do🥋🥊.</h3>
-  <p>
-    <h3>I am constantly studying <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> to solve the business problems I am facing where I live.
-    </h3>
-  </p>
+> Just knowing is not enough. You just have to know how to apply it. Having a will is not enough. You have to put it into action. - Bruce Lee
+
+> I am not afraid of opponents who have practiced 10,000 kicks once. What I'm afraid of is meeting an opponent who practiced only one kick 10,000 times. - Bruce Lee
+  
+### Hello! I'm Bruce Han. I'm practicing Jeet Kune Do:martial_arts_uniform::boxing_glove:.
+### I am steadly learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
+### I am not only learning according to the words of Master Bruce Lee, but I am trying to apply them .
+### I love to grow together:people_holding_hands:. 
 <hr>
 
 <div align='center'>
@@ -72,18 +74,19 @@
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/></a> &nbsp
-    <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/> &nbsp
+    <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/> &nbsp
         </div>
       </p>
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a> &nbsp
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
-          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=black"/></a> &nbsp
-          <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=black"/></a> &nbsp
-          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/></a> &nbsp
+          <img src="https://img.shields.io/badge/
+                    -F05032?style=flat-square&logo=Git&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
+          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> &nbsp
         </div>
       </p>
     </details>
@@ -96,12 +99,12 @@
       <summary>:computer_mouse: Minor Tech Stack :hammer_and_wrench:</summary>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
         </div>
       </p>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> &nbsp
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> &nbsp
           <img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=Koa&logoColor=white"/> &nbsp
         </div>
       </p>
@@ -113,16 +116,16 @@
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/></a> &nbsp
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/> &nbsp
         </div>
       </p>
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/></a> &nbsp
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/></a> &nbsp
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> &nbsp
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> &nbsp
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> &nbsp
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> &nbsp
         </div>
       </p>
     </details>
@@ -131,7 +134,7 @@
 
 <hr>
 
-<h2 align="center"><b>How to contact 🙋‍♂️me</b></h2>
+<h2 align="center"><b>:e-mail:How to contact me:call_me_hand:</b></h2>
 <p align="center">
   <a href="mailto:intrager@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
