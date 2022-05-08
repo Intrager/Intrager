@@ -55,7 +55,7 @@
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/> &nbsp
+          <img src="https://img.shields.io/badge/Amazon%20Web%20Service-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/> &nbsp
         </div>
       </p>
       <p>
