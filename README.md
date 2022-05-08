@@ -1,6 +1,12 @@
-### :coffee: Back-End Developer :man_technologist:  &nbsp;&nbsp;&nbsp;  &&  &nbsp;&nbsp;&nbsp;   :martial_arts_uniform: Jeet Kune Do practitioner :boxing_glove:
-### I am steadly learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
-<!-- Following the words of Master Bruce Lee, I am trying not only to learn, but also to apply.
+<div align="center">
+  <h3> 
+    :coffee: Back-End Developer :man_technologist:  &nbsp;&nbsp;&nbsp;  &&  &nbsp;&nbsp;&nbsp;   :martial_arts_uniform: Jeet Kune Do practitioner :boxing_glove:
+  </h3> 
+  <h3>
+    I am steadly learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
+   </h3>
+</div>
+    <!-- Following the words of Master Bruce Lee, I am trying not only to learn, but also to apply.
  I love to grow up together:people_holding_hands:. -->
 <hr>
 
@@ -143,6 +149,11 @@
 
 <hr>
 
-![Bruce Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&theme=radical&include_all_commits=false&align=center)
-
-
+<div align="center">
+  <p href="https://github.com/intrager/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=intrager&include_all_commits=true&theme=radical&show_icons=true"/>
+  </p>
+<!--   <p herf="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,django,docker,git,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,ts&perline=6"/>
+  </p> -->
+</div>
