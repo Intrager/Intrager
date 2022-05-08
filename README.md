@@ -3,7 +3,7 @@
     :coffee: Back-End Developer :man_technologist:  &nbsp;&nbsp;&nbsp;  &&  &nbsp;&nbsp;&nbsp;   :martial_arts_uniform: Jeet Kune Do practitioner :boxing_glove:
   </h3> 
   <h3>
-    I am steadly learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
+    I am steadly learning <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
    </h3>
 </div>
     <!-- Following the words of Master Bruce Lee, I am trying not only to learn, but also to apply.
