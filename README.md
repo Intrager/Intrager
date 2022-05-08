@@ -1,11 +1,7 @@
-> Just knowing is not enough. You just have to know how to apply it. Having a will is not enough. You have to put it into action. - Bruce Lee
-
-> I am not afraid of opponents who have practiced 10,000 kicks once. What I'm afraid of is meeting an opponent who practiced only one kick 10,000 times. - Bruce Lee
-  
-### Hello! I'm Bruce Han. I'm practicing Jeet Kune Do:martial_arts_uniform::boxing_glove:.
+### :leaves: Back-End Developer :man_technologist: & :martial_arts_uniform: Jeet Kune Do practitioner :boxing_glove:
 ### I am steadly learning <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>.
-### Following the words of Master Bruce Lee, I am trying not only to learn, but also to apply.
-### I love to grow up together:people_holding_hands:. 
+<!-- Following the words of Master Bruce Lee, I am trying not only to learn, but also to apply.
+ I love to grow up together:people_holding_hands:. -->
 <hr>
 
 <div align='center'>
