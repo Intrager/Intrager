@@ -153,7 +153,7 @@
 
 <div align="center">
   <p href="https://github.com/intrager/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=intrager&include_all_commits=true&theme=radical&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=intrager&include_all_commits=false&theme=radical&show_icons=true"/>
   </p>
 <!--   <p herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,django,docker,git,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,ts&perline=6"/>
