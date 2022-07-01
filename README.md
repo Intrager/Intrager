@@ -109,20 +109,9 @@
       <p>
         <div>
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=Koa&logoColor=white"/> &nbsp
-        </div>
-      </p>
-      <p>
-        <div>
-          <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=black"/> &nbsp
         </div>
       </p>
       <hr>
-      <p>
-        <div>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=black"/> &nbsp
-        </div>
-      </p>
       <hr>
       <p>
         <div>
@@ -157,7 +146,4 @@
   <p href="https://github.com/intrager/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=intrager&include_all_commits=false&theme=radical&show_icons=true"/>
   </p>
-<!--   <p herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,django,docker,git,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,ts&perline=6"/>
-  </p> -->
 </div>
