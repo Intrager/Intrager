@@ -55,11 +55,6 @@
       <hr>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Amazon%20Web%20Service-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=black"/> &nbsp
-        </div>
-      </p>
-      <p>
-        <div>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/> &nbsp
@@ -79,7 +74,6 @@
       <p>
         <div>
           <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=black"/> &nbsp
-    <img src="https://img.shields.io/badge/Mustache-981E32?style=flat-square&logo=Mustache&logoColor=black"/> &nbsp
         </div>
       </p>
       <hr>
@@ -87,9 +81,6 @@
         <div>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=black"/> &nbsp
-          <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> &nbsp
         </div>
       </p>
