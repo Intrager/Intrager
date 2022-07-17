@@ -30,6 +30,7 @@
       </p>
       <p>
         <div>
+          <img src="https://img.shields.io/badge/MyBatis-FFFFFF?style=flat-square&logo=MyBatis&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/JPA-FFFFFF?style=flat-square&logo=JPA&logoColor=black"/> &nbsp
         </div>
       </p>
