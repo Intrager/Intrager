@@ -37,6 +37,7 @@
       <p>
         <div>
           <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/> &nbsp
+          <img src="https://img.shields.io/badge/JUnit4-25A162?style=flat-square&logo=JUnit4&logoColor=white"/> &nbsp
         </div>
       </p>
       <p>
