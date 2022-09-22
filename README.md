@@ -1,6 +1,6 @@
 <div align="center">
   <h3> 
-    :coffee: Back-End Developer :man_technologist:  &nbsp;&nbsp;&nbsp;  &&  &nbsp;&nbsp;&nbsp;   :martial_arts_uniform::call_me_hand: MMA practitioner :boxing_glove:
+    :coffee: Back-End Developer :man_technologist:  &nbsp;&nbsp;&nbsp;  &&  &nbsp;&nbsp;&nbsp;   :call_me_hand: jiujitero :martial_arts_uniform:
   </h3>
 </div>
 <div align="center" style="vertical-align: bottom">
