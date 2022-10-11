@@ -1,12 +1,12 @@
-<div align="center">
-  <h3> 
-    :coffee: Back-End Developer :man_technologist:  &nbsp;&nbsp;&nbsp;  &&  &nbsp;&nbsp;&nbsp;   :call_me_hand: jiujitero :martial_arts_uniform:
-  </h3>
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintrager&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/intrager)
+
+- I'm Backend Developer :man_technologist: & jiujitero :martial_arts_uniform:
+- Learning about 
+
 <div align="center" style="vertical-align: bottom">
-  <h3>
-    I am steadly learning <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/> and working on daily commit to <img src="https://img.shields.io/badge/GitHub-181717?style=social&logo=GitHub&logoColor=black"/>.
-   </h3>
+
+| Date 
+
 </div>
     <!-- Following the words of Master Bruce Lee, I am trying not only to learn, but also to apply.
  I love to grow up together:people_holding_hands:. -->
