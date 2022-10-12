@@ -3,52 +3,45 @@
 - I'm Backend Developer :man_technologist: & jiujitero :martial_arts_uniform:
 - I'm studying the basics of the Backend - **Validation, Exception handling, Persistence Framework(JPA, MyBatis)**
 - I value **growth together** through collaboration and mentoring
-    - (2021.12 ~ **ing**) __Passion__ department club president 
+    - (2021.12 ~ **ing**) __Passion__ department club Representative & Tech Leader 
     - (2021.04 ~ **ing**) School major subject mentor
     - (2021.03 ~ 2021.11) __Passion__ department club member 
+- I am currently a college student
 
 ========================================================================================
+
+## :hammer_and_wrench:Tech Stack
+
+### Back
+ - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=black"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=black"/>
+ - <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit4-25A162?style=flat-square&logo=JUnit4&logoColor=white"/>
+ - <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=black"/>
+ - <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FFFFFF?style=flat-square&logo=IntelliJIDEA&logoColor=black"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=black"/>
+ 
+### DevOps 
+ 
+### Language
+ - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+ - <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=SQL&logoColor=white"/>
 
 <div align='center'>
   <h2>
     <details>
-      <summary>:trackball: Major Tech Stack :hammer_and_wrench:</summary>
+      <summary>:trackball: Major Tech Stack </summary>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp
+          
         </div>
       </p>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/> &nbsp
+          
         </div>
       </p>
       <p>
         <div>
-          <img src="https://img.shields.io/badge/MyBatis-FF9900?style=flat-square&logo=MyBatis&logoColor=black"/> &nbsp
-          <img src="https://img.shields.io/badge/JPA-FF9900?style=flat-square&logo=JPA&logoColor=black"/> &nbsp
-        </div>
-      </p>
-      <p>
-        <div>
-          <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/JUnit4-25A162?style=flat-square&logo=JUnit4&logoColor=white"/> &nbsp
-        </div>
-      </p>
-      <p>
-        <div>
-          <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=black"/> &nbsp
-          <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=black"/> &nbsp
-        </div>
-      </p>
-      <p>
-        <div>
-          <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/IntelliJ%20IDEA-FFFFFF?style=flat-square&logo=IntelliJIDEA&logoColor=black"/> &nbsp
-          <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/> &nbsp
-          <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=black"/> &nbsp
+          
         </div>
       </p>
       <hr>
@@ -101,7 +94,7 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/> &nbsp
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> &nbsp
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> &nbsp
+           &nbsp
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black"/> &nbsp
         </div>
       </p>
@@ -111,7 +104,7 @@
 
 <hr>
 
-<h2 align="center"><b>:e-mail:How to contact me:call_me_hand:</b></h2>
+<h4 align="center"><b>:e-mail:How to contact me:call_me_hand:</b></h4>
 <p align="center">
   <a href="mailto:intrager@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="mailto:intragerhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
