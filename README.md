@@ -7,7 +7,7 @@
     - (2021.04 ~ **ing**) School major subject mentor
     - (2021.03 ~ 2021.11) __Passion__ department club member 
 - I am currently a college student
-- _**Bruce Lee's 4th direct disciple**_
+- _**Bruce Lee's 4th direct disciple (Ted Wong style)**_ 
 
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%ED%95%9C-7b8802230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
