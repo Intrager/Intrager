@@ -1,13 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintrager&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/intrager)
 
-### Hello! I'm Bruce Han. I'm Backend Developer :man_technologist: & jiujitero :martial_arts_uniform:
-- I'm studying the basics of the Backend - **Exception handling, Persistence Framework(JPA, MyBatis)**
+### Hello! I'm Bruce Han. I'm Backend Developer :man_technologist:
+- I'm studying the basics of the Backend - **Exception handling, Persistence Framework(JPA, MyBatis)** 
+- I am currently a college student
 - I value **growth together** through collaboration and mentoring
     - (2021.12 ~ **ing**) __Passion__ department club Representative & Tech Leader 
     - (2021.04 ~ **ing**) School major subject mentor
-    - (2021.03 ~ 2021.11) __Passion__ department club member 
-- I am currently a college student
-- _**Bruce Lee's 4th direct disciple (Ted Wong style)**_ 
+    - (2021.03 ~ 2021.11) __Passion__ department club member
+- _**Bruce Lee's 4th direct disciple (Ted Wong style) & jiujitero (in Team MMA STORY)**_
 
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%ED%95%9C-7b8802230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
