@@ -4,8 +4,8 @@
 - I'm studying the basics of the Backend - **Exception handling, Persistence Framework(JPA, MyBatis)** 
 - I am currently a college student
 - I value **growth together** through collaboration and mentoring
-    - (2022.03 ~ **ing**) __Passion__ department club Representative & Tech Leader 
-    - (2021.04 ~ **ing**) School major subject mentor
+    - (2022.03 ~ 2022.12) __Passion__ department club Representative & Tech Leader 
+    - (2021.04 ~ 2022.12) School major subject mentor
     - (2021.03 ~ 2021.12) __Passion__ department club member
 - _**Bruce Lee's 4th direct disciple (Ted Wong style) & jiujitero (in Team MMA STORY)**_
 
