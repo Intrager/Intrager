@@ -1,8 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintrager&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/intrager)
 
 ### Hello! I'm Bruce Han. I'm Backend Developer :man_technologist:
-- I'm studying the basics of the Backend - **Exception handling, ORM(JPA)** 
-- I am currently a college student
+- I'm studying Java☕ / Spring🌻
+- I am currently a college student 👨‍🎓
 - I value **growth together** through collaboration and mentoring
     - (2022.03 ~ 2022.12) __Passion__ department club Representative & Tech Leader 
     - (2021.04 ~ 2022.12) School major subject mentor
