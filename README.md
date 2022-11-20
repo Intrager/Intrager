@@ -12,6 +12,24 @@
 ========================================================================================
 
 ![Brucehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&theme=transparent)
+
+
+<!--START_SECTION:waka-->
+
+LOCALE: "ko" #한국
+SHOW_LINES_OF_CODE: "True" # or "False"
+SHOW_PROFILE_VIEWS: "True" # or "False"
+SHOW_DAYS_OF_WEEK: "True" # or "False"
+SHOW_SHORT_INFO: "True" # or "False"
+SHOW_LOC_CHART: "True" # or "False"
+SHOW_PROJECTS: "True" # or "False"
+SHOW_LANGUAGE_PER_REPO: "True" # or "False"
+
+<!--END_SECTION:waka-->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
+
+
 <!-- ## :hammer_and_wrench:Tech Stack -->
 
 <!-- ### Back
@@ -39,4 +57,3 @@
  #### Collaboration
  - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
