@@ -1,6 +1,5 @@
 ### Hello! I'm Bruce Han. I'm Backend Developer :man_technologist:
-- I'm studying Java☕ / Spring🌻
-- I am currently a college student 👨‍🎓
+- I'm studying Java☕ / Spring🌻. I keep practicing to grow 🍀
 - I value **growth together** through collaboration and mentoring
     - (2022.03 ~ 2022.12) __Passion__ department club Representative & Tech Leader 
     - (2021.04 ~ 2022.12) School major subject mentor
