@@ -15,16 +15,6 @@
 
 
 <!--START_SECTION:waka-->
-
-LOCALE: "ko" #한국
-SHOW_LINES_OF_CODE: "True" # or "False"
-SHOW_PROFILE_VIEWS: "True" # or "False"
-SHOW_DAYS_OF_WEEK: "True" # or "False"
-SHOW_SHORT_INFO: "True" # or "False"
-SHOW_LOC_CHART: "True" # or "False"
-SHOW_PROJECTS: "True" # or "False"
-SHOW_LANGUAGE_PER_REPO: "True" # or "False"
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
