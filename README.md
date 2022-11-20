@@ -12,9 +12,10 @@
 
 ========================================================================================
 
-## :hammer_and_wrench:Tech Stack
+![Brucehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&theme=transparent)
+<!-- ## :hammer_and_wrench:Tech Stack -->
 
-### Back
+<!-- ### Back
  - <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
  - <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=black"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=JPA&logoColor=black"/> <img src="https://img.shields.io/badge/JdbcTemplate-007396?style=flat-square&logo=JdbcTemplate&logoColor=black"/>
  - <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit4-25A162?style=flat-square&logo=JUnit4&logoColor=white"/>
@@ -37,6 +38,6 @@
 
 ### Tools
  #### Collaboration
- - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
+ - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
