@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fintrager&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/intrager)
-
 ### Hello! I'm Bruce Han. I'm Backend Developer :man_technologist:
 - I'm studying Java☕ / Spring🌻
 - I am currently a college student 👨‍🎓
@@ -9,7 +7,7 @@
     - (2021.03 ~ 2021.12) __Passion__ department club member
 - _**Bruce Lee's 4th direct disciple (Ted Wong style) & jiujitero (in Team MMA STORY)**_
 
-<a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%ED%95%9C-7b8802230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 ========================================================================================
@@ -41,17 +39,4 @@
  #### Collaboration
  - <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
 
-
-<p align="center">
-
-<!--   <a href="https://brucehan.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181A1D?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-343434?style=flat-square&logo=Brunch&logoColor=white"/></a> -->
-
-
-<!--
-<div align="center">
-  <p href="https://github.com/intrager/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=intrager&include_all_commits=true&theme=radical&show_icons=true"/>
-  </p>
-</div>
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
