@@ -2,7 +2,7 @@
 - I'm studying Java☕ / Spring🌻. I keep practicing to grow 🍀
 - I value **growth together** through collaboration and mentoring
     - (2022.03 ~ 2022.11) __Passion__ department club Representative & Tech Leader 
-    - (2021.04 ~ 2022.12) School major subject mentor
+    - (2021.04 ~ 2022.11) School major subject mentor
     - (2021.06 ~ 2021.10) __Passion__ department club member
 - _**Bruce Lee's 4th direct disciple (Ted Wong style) & jiujitero (in Team MMA STORY)**_
 
