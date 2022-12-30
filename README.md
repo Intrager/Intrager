@@ -4,7 +4,8 @@
     - (2022.03 ~ 2022.11) __Passion__ department club Representative & Tech Leader 
     - (2021.04 ~ 2022.11) School major subject mentor
     - (2021.06 ~ 2021.10) __Passion__ department club member
-- _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style) & jiujitero/boxer (in Team MMA STORY)**_
+- _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_
+  - _**Now Practicing Boxing/Jiu-Jitsu in Team MMA STORY**_
 
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%ED%95%9C-7b8802230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
