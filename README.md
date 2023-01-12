@@ -9,7 +9,7 @@
 
 ========================================================================================
 
-![BruceHan's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&show_icons=true&cache_seconds=86400&theme=graywhite)
+![Bruce Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=intrager&hide=contribs&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
 
