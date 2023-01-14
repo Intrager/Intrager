@@ -15,9 +15,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2049%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue) -->
 
 <!-- **🐱 저의 GitHub 정보에요.** 
 
