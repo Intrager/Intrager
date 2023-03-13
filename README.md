@@ -1,5 +1,5 @@
-### Hello! I'm Bruce Han. I'm Backend Developer :man_technologist:
-- I'm studying Java☕ / Spring🌻. I keep practicing to grow 🍀
+## Bruce Han's profile
+- I'm studying Java / Spring. I keep practicing to grow.
 - I value **growth together** through collaboration and mentoring
 - _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_
   - _**Now Practicing Boxing/Jiu-Jitsu in Team MMA STORY**_
