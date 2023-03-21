@@ -1,4 +1,4 @@
-## Bruce Han's profile
+## Bruce Han's profile👨‍💻
 - I value **growth together** through collaboration and mentoring.
 - _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_
   - _**Now Practicing Boxing/Jiu-Jitsu in Team MMA STORY**_
