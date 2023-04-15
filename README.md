@@ -1,8 +1,9 @@
 ## Bruce Han's profile
 - I value **growth together** through collaboration and mentoring.
 - I am honing the basics of Java:coffee:/Spring🌱.
-- _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_ 
-  - _**Now Practicing Boxing/Jiu-Jitsu in Team MMA STORY**_
+- _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_ (2019.09 ~ 2022.03)
+  - _**Practiced Boxing/Jiu-Jitsu in Team MMA STORY**_ (2022.06 ~ 2022.12)
+  - Now I do solo drills every weekend.
 
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 
