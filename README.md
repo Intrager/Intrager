@@ -7,7 +7,6 @@
 
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 
-========================================================================================
 
 <!-- ## :hammer_and_wrench:Tech Stack -->
 
