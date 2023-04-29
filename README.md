@@ -1,5 +1,5 @@
 ## Bruce Han's Profile
-- I'm Back-End Developer whose main skills are Java:coffee:/Spring:sunflower:. 
+- I'm **Back-End Developer** whose main skills are Java:coffee:/Spring:sunflower:. 
 - I am honing the basics of Java/Spring.
 - I value **growth together** through collaboration and mentoring.
 - _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_
