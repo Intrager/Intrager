@@ -1,7 +1,7 @@
 ## Bruce Han's Profile
 - I'm **Back-End Developer** whose main skills are Java:coffee:/Spring:sunflower:
 
-- _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style).**_
+- _**Bruce Lee's 4th direct disciple (Jeet Kune Do - Ted Wong style)**_
 <!--  - _**Practiced Boxing/Jiu-Jitsu in Team MMA STORY**_ -->
  
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
