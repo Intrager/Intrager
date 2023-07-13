@@ -1,5 +1,8 @@
 ## Bruce Han's Profile
-안녕하세요👋 백엔드 개발자 Bruce Han입니다
+### 안녕하세요👋 백엔드 개발자 Bruce Han입니다
+- Java / Spring으로 백엔드를 개발하는 일을 하고 있으며, 프론트엔드 작업도 겸하고 있습니다
+- **만 가지의 발차기보다 한 가지의 발차기를 만 번 연습하고자** 매일 백엔드 기술 스택을 연습하고 있습니다
+- 상황에 맞는 기술을 먼저 익히고, 그 상황에서 할 수 있는 일을 찾는 것을 중요시합니다
 <!--  - _**Practiced Boxing/Jiu-Jitsu in Team MMA STORY**_ -->
  
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
