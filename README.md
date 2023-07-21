@@ -4,7 +4,7 @@
 - **만 가지의 발차기보다 한 가지의 발차기를 만 번 연습하고자** 매일 백엔드 기술 스택을 연습하고 있습니다
 - **상황에 맞는 기술을 먼저 익히고, 그 상황에서 할 수 있는 일을 찾는 것**을 중요시합니다
 <!--  - _**Practiced Boxing/Jiu-Jitsu in Team MMA STORY**_ -->
- 
+ <!-- -->
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-000000?style=plastic&logo=Kakao&logoColor=white"/></a>
 
