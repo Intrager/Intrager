@@ -5,7 +5,7 @@
 <!--  - _**Practiced Boxing/Jiu-Jitsu in Team MMA STORY**_ -->
  <!-- -->
 <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
-<a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-000000?style=plastic&logo=Kakao&logoColor=white"/></a>
+<!-- <a href="https://brunch.co.kr/@3e8a6ea6e0604ba"><img src="https://img.shields.io/badge/Brunch-000000?style=plastic&logo=Kakao&logoColor=white"/></a> -->
 
 <!--<a href="https://www.linkedin.com/in/%EC%A0%95%EC%88%98-%ED%95%9C-7b8802230/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a> -->
 
