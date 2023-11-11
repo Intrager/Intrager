@@ -14,6 +14,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=intrager&title=Commits,Organizations,Repositories,PullRequest,Stars,Issues&theme=onedark)](https://github.com/intrager/github-profile-trophy)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=intrager)](https://solved.ac/intrager)
+
+[![코드트리|실력진단-brucehan](https://banner.codetree.ai/v1/banner/brucehan)](https://www.codetree.ai/profiles/brucehan)
 <!-- -->
 <!-- ## :hammer_and_wrench:Tech Stack -->
 <!-- ## :hammer_and_wrench:Tech Stack -->
