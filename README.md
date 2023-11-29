@@ -6,6 +6,8 @@
    > **바꾸기 힘든 것에 의존하지 말기**
    > 
    > **할 수 있는 것을 찾아서 하기**
+   >
+   > **내가 하는 것에 최선을 다하기**
 
 
 <!-- <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a> -->
