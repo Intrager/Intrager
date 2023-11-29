@@ -2,8 +2,10 @@
 ### 상황에 맞는 일을 찾아서 해내는 백엔드 개발자 한정수입니다 🤙
 - Java / Spring으로 웹 백엔드를 개발하는 일을 하고 있으며, 프론트엔드 작업도 겸하고 있습니다
 - **상황에 맞는 기술을 먼저 익히고, 그 상황에서 할 수 있는 일을 찾는 것**을 중요시합니다
-   
-   > **할 수 있는 것을 찾아서 하자**
+  
+   > **바꾸기 힘든 것에 의존하지 말기**
+   > 
+   > **할 수 있는 것을 찾아서 하기**
 
 
 <!-- <a href="https://velog.io/@brucehan"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a> -->
